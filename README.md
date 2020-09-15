@@ -99,9 +99,10 @@ It may turn out that some issue with the UniFi Controller software is caused by 
 
 To uninstall UniFi controller:
 ----------------
-
+```
 rm -rf /usr/local/UniFi
 rm /usr/local/etc/rc.d/unifi.sh
+```
 
 
 
